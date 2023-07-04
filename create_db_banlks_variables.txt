@@ -1,0 +1,22 @@
+create table db_bank (
+	id int, 
+	V1 int,
+	V2 varchar (255),
+	V3 VARCHAR (255),
+	V4 VARCHAR (255),
+	V5 VARCHAR (255),
+	V6 INT, 
+	V7 VARCHAR (255),
+	V8 VARCHAR (255),
+	V9 VARCHAR (255),
+	V10 INT,
+	V11 VARCHAR (255),
+	V12 INT, 
+	V13 INT, 
+	V14 INT, 
+	V15 INT, 
+	V16 VARCHAR (255),
+	V17 VARCHAR (255),
+	Class int
+		
+);
